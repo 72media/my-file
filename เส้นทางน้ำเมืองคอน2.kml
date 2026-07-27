@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>เส้นทางน้ำเมืองคอน2</name>
+	<color>91ffffff</color>
+	<Icon>
+		<href>https://i.ibb.co/LRYMcwP/snapedit-1723265312616.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>9.317831184483238</north>
+		<south>7.833950090401216</south>
+		<east>100.3411128005474</east>
+		<west>99.24728097489877</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

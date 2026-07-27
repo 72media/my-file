@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>PHUKET DEM </name>
+	<Icon>
+		<href>https://i.ibb.co/0tP4pGw/phuket.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>8.197633778821452</north>
+		<south>7.751449181365088</south>
+		<east>98.45734267595606</east>
+		<west>98.24494183853089</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

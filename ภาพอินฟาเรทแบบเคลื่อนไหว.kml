@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>ภาพอินฟาเรทแบบเคลื่อนไหว</name>
+	<Icon>
+		<href>http://www.sattmet.tmd.go.th/satmet/thai/loop/enh/anigif.gif</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>25.90470115350569</north>
+		<south>0.1305236003088189</south>
+		<east>126.0375116794172</east>
+		<west>82.95730325060333</west>
+	</LatLonBox>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+</GroundOverlay>
+</kml>
